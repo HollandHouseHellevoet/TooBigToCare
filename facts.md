@@ -2,7 +2,7 @@
 
 Chapter-by-chapter factual claims required to prove each one-sentence thesis statement in `refined-outline.md`. Each claim is one sentence, flat, and falsifiable. Built iteratively with Dutch, one chapter per sourcing round.
 
-**Status.** Build in progress. Ch 2 of 24 complete.
+**Status.** Build in progress. Ch 2 of 24 complete. Ch 3 drafted with Medicare rates locked, commercial placeholders inline, commit held pending commercial figures.
 
 ## Data architecture
 
@@ -32,7 +32,7 @@ Chapter-by-chapter factual claims required to prove each one-sentence thesis sta
 |---|---|---|---|
 | I | Ch 1. The Same Procedure | SHORT | **complete** |
 | I | Ch 2. The First Explanation That Isn't True | SHORT | **complete** |
-| I | Ch 3. The Second Look | MEDIUM | pending |
+| I | Ch 3. The Second Look | MEDIUM | draft (commercial pending) |
 | II | Ch 4. The Price Isn't the Price | LONG | pending |
 | II | Ch 5. The Boxes | MEDIUM | pending |
 | II | Ch 6. The Arbitrage | SHORT | pending |
@@ -63,7 +63,7 @@ Chapter-by-chapter factual claims required to prove each one-sentence thesis sta
 
 **Proves:** the same procedure, performed by the same physician on the same patient, pays at different rates depending only on the building it happens in.
 
-1. Medicare's CY2024 payment for a laparoscopic cholecystectomy (CPT 47562 or 47563) performed at an ambulatory surgical center is approximately $4,200. [Source: CMS CY2024 ASC payment addendum, CPT 47562/47563]
+1. Medicare's payment for a laparoscopic cholecystectomy (CPT 47562 or 47563) performed at an ambulatory surgical center in the Charlotte, North Carolina market is approximately $4,200 as a locality-adjusted figure observed in the Dutch Rojas operator record. [Source: Dutch Rojas operator record, Charlotte market, locality-adjusted Medicare ASC reimbursement. Precision note: the CY2026 national unadjusted ASC rate for CPT 47562 is $3,030.97 per CMS Addendum AA, cited in Ch 3]
 2. A physician-owned surgical facility in the Charlotte, North Carolina market is paid approximately $6,800 for the same laparoscopic cholecystectomy. [Source: Dutch Rojas operator record, Charlotte market, physician-owned surgical facility]
 3. Atrium Health's negotiated commercial rate for the same laparoscopic cholecystectomy performed at a hospital outpatient department in the Charlotte, North Carolina market is approximately $34,700. [Source: Dutch Rojas operator record, Atrium Health commercial contract, Charlotte market]
 4. The ratio between the highest facility payment in the three-tier comparison ($34,700 at Atrium Health) and the lowest ($4,200 at the ambulatory surgical center) for the identical surgical procedure is approximately 8.3 to 1. [Source: derived from claims 1 and 3]
@@ -83,7 +83,16 @@ Chapter-by-chapter factual claims required to prove each one-sentence thesis sta
 
 **Proves:** the differential is directional, consistent across every major service category, and therefore structural rather than noise.
 
-*Pending sourcing round.*
+**Rate year.** CY2026. Medicare figures from CMS CY2026 January OPPS Addendum B (published 12/29/2025), CY2026 January ASC Addendum AA (published 02/05/2026), and CY2026 MPFS PFREV26B National Payment Amount File (updated 03/10/2026), national unadjusted. Commercial figures from the Dutch Rojas operator record.
+
+1. Under CY2026 Medicare rates, the facility fee paid for a laparoscopic cholecystectomy (CPT 47562) is $6,176.47 at a hospital outpatient department (OPPS APC 5361) and $3,030.97 at an ambulatory surgical center, a Medicare facility-fee differential of 2.04 to 1 before any commercial uplift. [Source: CMS CY2026 January OPPS Addendum B and ASC Addendum AA; commercial Charlotte market rates of $34,700 at Atrium Health HOPD and $6,800 at a physician-owned surgical facility already established in Ch 1]
+2. Under CY2026 Medicare rates, the facility fee paid for cataract extraction with intraocular lens insertion (CPT 66984) is $2,357.81 at a hospital outpatient department (OPPS APC 5491) and $1,255.73 at an ambulatory surgical center, a Medicare facility-fee differential of 1.88 to 1. [Source: CMS CY2026 January OPPS Addendum B and ASC Addendum AA. Commercial rate: [COMMERCIAL RATE — NEEDS SOURCE]]
+3. Under CY2026 Medicare rates, the facility fee paid for a colonoscopy (CPT 45378) is $950.10 at a hospital outpatient department (OPPS APC 5311) and $510.49 at an ambulatory surgical center, a Medicare facility-fee differential of 1.86 to 1. [Source: CMS CY2026 January OPPS Addendum B and ASC Addendum AA. Commercial rate: [COMMERCIAL RATE — NEEDS SOURCE]]
+4. Under CY2026 Medicare rates, the facility fee paid for a knee arthroscopy with meniscectomy (CPT 29881) is $3,342.87 at a hospital outpatient department (OPPS APC 5113) and $1,644.87 at an ambulatory surgical center, a Medicare facility-fee differential of 2.03 to 1. [Source: CMS CY2026 January OPPS Addendum B and ASC Addendum AA. Commercial rate: [COMMERCIAL RATE — NEEDS SOURCE]]
+5. Under CY2026 Medicare rates, the total Medicare payment for an established moderate-complexity office visit (CPT 99214) is $220.52 in a hospital outpatient setting ($136.02 facility fee billed under G0463 Hospital Outpatient Clinic Visit, APC 5012, plus $84.50 reduced MPFS professional fee) and $135.61 in a freestanding physician office (MPFS non-facility global), a total-payment differential of 1.63 to 1. [Source: CMS CY2026 OPPS Addendum B (G0463) and CMS CY2026 MPFS PFREV26B (CPT 99214). Commercial rate: [COMMERCIAL RATE — NEEDS SOURCE]]
+6. Under CY2026 Medicare rates, the total Medicare payment for a complete transthoracic diagnostic echocardiogram (CPT 93306) is $625.72 in a hospital outpatient setting ($558.25 technical component under OPPS APC 5524 plus $67.47 professional component under MPFS modifier 26) and $196.73 in a freestanding cardiology office (MPFS non-facility global), a total-payment differential of 3.18 to 1. [Source: CMS CY2026 OPPS Addendum B and CMS CY2026 MPFS PFREV26B. CPT 93306 is not on the CY2026 ASC covered procedure list. Commercial rate: [COMMERCIAL RATE — NEEDS SOURCE]]
+7. Under CY2026 Medicare rates, a single-visit bundle of a physical therapy evaluation (CPT 97161, low complexity, 20 minutes) plus one unit of therapeutic exercises (CPT 97110, 15 minutes) pays $126.92 in a hospital outpatient setting and $126.92 in a freestanding physician office, because physical therapy codes carry OPPS status indicator A and are paid under the MPFS rather than OPPS in both settings. [Source: CMS CY2026 MPFS PFREV26B, OPPS status indicator A designation]
+8. In the Dutch Rojas operator record, commercial payer contracts reimburse a single-visit physical therapy encounter at approximately $310 in a hospital outpatient setting and approximately $95 in an independent physician office, a commercial differential of 3.26 to 1 for services that Medicare pays at an identical national rate in both settings. [Source: Dutch Rojas operator record. Specific payer identity, contract market, and exact service unit definition pending a later sourcing round]
 
 ## Part II. The Game
 
