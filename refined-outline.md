@@ -59,8 +59,9 @@ A chapter may carry more than one tag. A chapter with no tag fails the thesis ch
 - **Ch 14. The Freeze.** Long (20 to 25). `[LAW]`. Proves: Section 6001 froze physician-owned hospitals at their 2010 footprint. 265 before the ban. 85 eliminated. 104 survive. The most efficient competitor in American medicine was removed by statute.
 - **Ch 15. The Constraint.** Short (6 to 8). `[LAW]`. Proves: Stark Law restricts physician referral behavior while exempting hospital employment models, making scale the escape hatch from the referral rules.
 - **Ch 16. The Modern Reinforcement.** Short (6 to 8). `[LAW]`. Proves: the No Surprises Act, introduced as a patient protection, transferred negotiating leverage to the systems with the most data and the most scale.
-- **Ch 17. The Unwritten Rules.** Long (20 to 25, expanded from medium). `[LOB]`. Proves: the architecture is actively maintained each year by a named lobbying apparatus. AHA, FAH, and HAC. Combined lobbying spend above $29M annually. 83 percent of lobbyists are former government staff. The incoming AHA chairman is seated on the CMS Healthcare Advisory Committee.
+- **Ch 17. The Unwritten Rules.** Long (20 to 25, expanded from medium). `[LOB]`. Proves: the architecture is actively maintained each year by a named lobbying apparatus. AHA, FAH, HAC, and the House Ways and Means Committee. Combined AHA lobbying spend above $29M annually. 83 percent of FAH lobbyists are former government staff. The incoming AHA chairman is seated on the CMS Healthcare Advisory Committee. $11M in 2024 healthcare industry contributions routed to the 45-member Ways and Means Committee in the 119th Congress.
   - *Fix applied.* Expanded to long because the lobbying proof is load-bearing for the thesis and medium length cannot carry it.
+  - *Fix applied.* Ways and Means Committee added as the fourth named lobbying node alongside AHA, FAH, and HAC (seventh intelligence site, per Dutch 2026-04-10).
   - *Pre-plant (employer).* Employers noted as conspicuously absent from the CMS Healthcare Advisory Committee rooms. Absence is part of the proof.
 
 ### Part V. The Outcome
