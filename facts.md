@@ -2,7 +2,7 @@
 
 Chapter-by-chapter factual claims required to prove each one-sentence thesis statement in `refined-outline.md`. Each claim is one sentence, flat, and falsifiable. Built iteratively with Dutch, one chapter per sourcing round.
 
-**Status.** Build in progress. Ch 1 of 24 complete.
+**Status.** Build in progress. Ch 2 of 24 complete.
 
 ## Data architecture
 
@@ -31,7 +31,7 @@ Chapter-by-chapter factual claims required to prove each one-sentence thesis sta
 | Part | Chapter | Length | Status |
 |---|---|---|---|
 | I | Ch 1. The Same Procedure | SHORT | **complete** |
-| I | Ch 2. The First Explanation That Isn't True | SHORT | pending |
+| I | Ch 2. The First Explanation That Isn't True | SHORT | **complete** |
 | I | Ch 3. The Second Look | MEDIUM | pending |
 | II | Ch 4. The Price Isn't the Price | LONG | pending |
 | II | Ch 5. The Boxes | MEDIUM | pending |
@@ -73,7 +73,11 @@ Chapter-by-chapter factual claims required to prove each one-sentence thesis sta
 
 **Proves:** the standard justifications for the payment gap (sicker patients, higher acuity, EMTALA obligations) do not survive contact with the data.
 
-*Pending sourcing round.*
+1. The Charlotte cholecystectomy case from Ch 1 establishes that the 8.3 to 1 facility fee gap cannot be explained by acuity differences, because the patient, the physician, and the 45-minute procedure were identical across all three sites. [Source: Dutch Rojas operator record, Ch 1 case]
+2. MedPAC's acuity-adjusted analyses of site-of-service cost differences between hospital outpatient departments and ambulatory surgical centers find that the payment gap persists after adjusting for patient case mix. [Source: MedPAC March report, site-of-service chapters]
+3. CBO site-neutral payment scoring has projected tens of billions of dollars in Medicare savings from eliminating the HOPD and ASC differential for equivalent services, without projecting access or acuity losses. [Source: CBO site-neutral savings scores, recent budget options reports]
+4. EMTALA (42 USC 1395dd) imposes screening and stabilization obligations on hospital emergency departments and does not apply to scheduled outpatient surgical services. [Source: 42 USC 1395dd]
+5. Uncompensated care expense as a share of hospital total revenue, reported in AHA annual survey data and Cecil G. Sheps Center analyses, is a small fraction of the site-of-service facility fee differential. [Source: AHA annual survey, Cecil G. Sheps Center uncompensated care analyses]
 
 ### Ch 3. The Second Look. MEDIUM.
 
