@@ -2,7 +2,7 @@
 
 Chapter-by-chapter factual claims required to prove each one-sentence thesis statement in `refined-outline.md`. Each claim is one sentence, flat, and falsifiable. Built iteratively with Dutch, one chapter per sourcing round.
 
-**Status.** Build in progress. Ch 2 of 24 complete. Ch 3 drafted with Medicare rates locked, commercial placeholders inline, commit held pending commercial figures.
+**Status.** Build in progress. Ch 1, Ch 2, and Ch 4 complete. Ch 3 drafted with Medicare rates locked, commercial placeholders inline, commit held pending commercial figures.
 
 ## Data architecture
 
@@ -33,7 +33,7 @@ Chapter-by-chapter factual claims required to prove each one-sentence thesis sta
 | I | Ch 1. The Same Procedure | SHORT | **complete** |
 | I | Ch 2. The First Explanation That Isn't True | SHORT | **complete** |
 | I | Ch 3. The Second Look | MEDIUM | draft (commercial pending) |
-| II | Ch 4. The Price Isn't the Price | LONG | pending |
+| II | Ch 4. The Price Isn't the Price | LONG | **complete** |
 | II | Ch 5. The Boxes | MEDIUM | pending |
 | II | Ch 6. The Arbitrage | SHORT | pending |
 | II | Ch 7. The Trade Becomes Strategy | MEDIUM | pending |
@@ -100,7 +100,22 @@ Chapter-by-chapter factual claims required to prove each one-sentence thesis sta
 
 **Proves:** Medicare is twelve parallel payment systems, and the one that applies is selected by classification, not by the care delivered.
 
-*Pending sourcing round.*
+**Sourcing.** Primary in-text source for each system is the MedPAC Payment Basics one-pager series. Regulatory anchor (42 CFR and SSA provisions) in the source brackets for verification. Annual Federal Register rule citations held for endnotes, not in the body.
+
+1. The Medicare Physician Fee Schedule (MPFS) pays physicians and certain non-physician clinicians on a per-service basis, calculated as the sum of work, practice expense, and malpractice Relative Value Units multiplied by an annually set conversion factor. [Source: MedPAC Payment Basics, Physician and Other Health Professional Services; 42 CFR 414 subpart B]
+2. The Outpatient Prospective Payment System (OPPS) pays hospital outpatient departments on a per-encounter basis using Ambulatory Payment Classifications, each with a scaled relative weight multiplied by the OPPS conversion factor. [Source: MedPAC Payment Basics, Outpatient Hospital Services; 42 CFR 419]
+3. The Inpatient Prospective Payment System (IPPS) pays acute-care hospitals a single bundled payment per discharge based on Medicare Severity Diagnosis-Related Groups, with adjustments for wage index, disproportionate share, and graduate medical education. [Source: MedPAC Payment Basics, Hospital Acute Inpatient Services; 42 CFR 412]
+4. The Ambulatory Surgical Center Payment System pays Medicare-certified ambulatory surgical centers on a per-procedure basis using rates set as a fraction of the OPPS APC for the same procedure, updated annually by the ASC conversion factor. [Source: MedPAC Payment Basics, Ambulatory Surgical Center Services; 42 CFR 416]
+5. The Skilled Nursing Facility Prospective Payment System pays Medicare-certified skilled nursing facilities a per-diem rate adjusted for patient case mix under the Patient Driven Payment Model, covering nursing, therapy, and non-therapy ancillary components. [Source: MedPAC Payment Basics, Skilled Nursing Facility Services; 42 CFR 413 subpart J]
+6. The Home Health Prospective Payment System pays Medicare-certified home health agencies a case-mix adjusted payment per 30-day period of care under the Patient-Driven Groupings Model. [Source: MedPAC Payment Basics, Home Health Care Services; 42 CFR 484 subpart E]
+7. The Inpatient Rehabilitation Facility Prospective Payment System pays inpatient rehabilitation facilities and distinct-part rehabilitation units a per-discharge payment based on Case Mix Groups, with the facility required to meet the 60 percent rule on qualifying patient conditions to retain IRF classification. [Source: MedPAC Payment Basics, Inpatient Rehabilitation Facility Services; 42 CFR 412 subpart P]
+8. The Long-Term Care Hospital Prospective Payment System pays long-term care hospitals a per-discharge rate using Medicare Severity Long-Term Care DRGs, with a statutorily-defined site-neutral rate applying to cases that do not meet patient-criteria thresholds. [Source: MedPAC Payment Basics, Long-Term Care Hospital Services; 42 CFR 412 subpart O]
+9. The Inpatient Psychiatric Facility Prospective Payment System pays freestanding psychiatric hospitals and distinct-part psychiatric units a per-diem rate adjusted for patient characteristics, length of stay, and facility features. [Source: MedPAC Payment Basics, Psychiatric Hospital Services; 42 CFR 412 subpart N]
+10. The End-Stage Renal Disease Prospective Payment System pays Medicare-certified dialysis facilities a single bundled per-treatment rate covering dialysis services, most injectable drugs, laboratory services, and supplies. [Source: MedPAC Payment Basics, Outpatient Dialysis Services; 42 CFR 413 subpart H]
+11. Medicare pays hospice care to Medicare-certified hospices on a per-diem basis at four distinct levels of care (routine home care, continuous home care, inpatient respite care, and general inpatient care), subject to an aggregate annual cap per beneficiary. [Source: MedPAC Payment Basics, Hospice Services; 42 CFR 418 subpart G]
+12. Critical Access Hospitals are paid 101 percent of reasonable cost for Medicare inpatient, outpatient, skilled nursing, and laboratory services, bypassing the prospective payment systems entirely, under designation requirements that include rural location and a 25-bed limit. [Source: MedPAC Payment Basics, Critical Access Hospital Services; 42 CFR 413.70 and 42 CFR 485 subpart F]
+13. Each of the twelve payment systems enumerated above is governed by its own statutory authority, its own annual rulemaking cycle, its own conversion factor or update mechanism, and its own set of eligibility rules for which entities can bill under it. [Source: synthesis of the twelve statutory and regulatory citations above]
+14. The payment system that applies to a given Medicare service is selected by the CMS enrollment classification of the billing entity at the time of service, not by the clinical content of the service performed. [Source: 42 CFR 424 subpart P, CMS enrollment and billing entity classification rules]
 
 ### Ch 5. The Boxes. MEDIUM.
 
