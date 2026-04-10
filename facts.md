@@ -2,7 +2,7 @@
 
 Chapter-by-chapter factual claims required to prove each one-sentence thesis statement in `refined-outline.md`. Each claim is one sentence, flat, and falsifiable. Built iteratively with Dutch, one chapter per sourcing round.
 
-**Status.** Build in progress. Ch 1, Ch 2, and Ch 4 complete. Ch 3 drafted with Medicare rates locked, commercial placeholders inline, commit held pending commercial figures.
+**Status.** Build in progress. Ch 1, Ch 2, and Ch 4 complete. Ch 3 drafted with Medicare rates locked, commercial placeholders inline, commit held pending commercial figures. Ch 5 drafted with Keytruda anchor locked, dollar figures placeholders inline, commit held pending CY2026 infusion and drug rates.
 
 ## Data architecture
 
@@ -34,7 +34,7 @@ Chapter-by-chapter factual claims required to prove each one-sentence thesis sta
 | I | Ch 2. The First Explanation That Isn't True | SHORT | **complete** |
 | I | Ch 3. The Second Look | MEDIUM | draft (commercial pending) |
 | II | Ch 4. The Price Isn't the Price | LONG | **complete** |
-| II | Ch 5. The Boxes | MEDIUM | pending |
+| II | Ch 5. The Boxes | MEDIUM | draft (Keytruda numbers pending) |
 | II | Ch 6. The Arbitrage | SHORT | pending |
 | II | Ch 7. The Trade Becomes Strategy | MEDIUM | pending |
 | III | Ch 8. The First Layer Isn't the Whole Story | SHORT | pending |
@@ -121,7 +121,17 @@ Chapter-by-chapter factual claims required to prove each one-sentence thesis sta
 
 **Proves:** following one service from clinical order through payment reveals that the classification is a mechanical output of site and ownership, not of clinical judgment.
 
-*Pending sourcing round.*
+**Anchor service.** Intravenous pembrolizumab (Keytruda, HCPCS J9271) infusion, CPT 96365, administered to a Medicare beneficiary. Classification chain followed end to end: acquisition of the physician practice, CMS-855A enrollment of the site under the hospital's institutional identity, 42 CFR 413.65 compliance, POS 22 eligibility, payment split.
+
+1. A physician orders an intravenous pembrolizumab (Keytruda, HCPCS J9271) infusion at the standard 200 mg fixed dose every three weeks for a Medicare beneficiary with a pembrolizumab-indicated malignancy. [Source: FDA-approved pembrolizumab prescribing information; Dutch Rojas operator record for case construction]
+2. The clinical content of the infusion (drug identity, dose, administration duration, exam room, nursing staff, physician, patient) is identical whether the site bills under CMS Place of Service code 11 (office) or CMS Place of Service code 22 (on-campus hospital outpatient department). [Source: CMS Place of Service Code Set; Dutch Rojas operator record, clinical equivalence assertion]
+3. When a hospital system acquires an independent oncology practice, the physical operations of the infusion site (exam rooms, chairs, pumps, nursing staff, physicians, patient panel) remain in place while the billing entity is reassigned from the practice's CMS-855B group practice enrollment to the acquiring hospital's CMS-855A institutional enrollment. [Source: 42 CFR 424 subpart P, CMS enrollment rules for billing entity classification]
+4. The CMS-855A enrollment of the acquired site is submitted to the Medicare Administrative Contractor under the hospital's existing institutional identity and does not require any change to clinical staffing, protocols, or patient panel at the site. [Source: 42 CFR 424 subpart P; CMS Medicare Enrollment Application CMS-855A instructions]
+5. To bill services performed at the site as hospital-based under the Outpatient Prospective Payment System, the hospital documents the four criteria of 42 CFR 413.65(d): common ownership, common supervision, integrated clinical operations, and integrated financial records with the main hospital. [Source: 42 CFR 413.65(d)(1) through (d)(4)]
+6. Once the CMS-855A enrollment reflects the acquired site and the 42 CFR 413.65 compliance file is on record, the hospital can submit claims for services performed at the site using Place of Service code 22 (on-campus outpatient hospital) rather than Place of Service code 11 (office). [Source: CMS Place of Service Code Set; 42 CFR 413.65; 42 CFR 424 subpart P]
+7. For CPT 96365 (intravenous infusion, for therapy, prophylaxis, or diagnosis; initial, up to 1 hour) under CY2026 Medicare rates, the service-level facility fee is approximately $[CPT 96365 OPPS RATE — NEEDS SOURCE] when billed at POS 22 under the OPPS and approximately $[CPT 96365 MPFS NON-FACILITY RATE — NEEDS SOURCE] when billed at POS 11 under the MPFS. [Source: CMS CY2026 January OPPS Addendum B (CPT 96365) and CMS CY2026 MPFS PFREV26B (CPT 96365). Rates pending]
+8. Under CY2026 Medicare Part B rates, a 200 mg pembrolizumab (HCPCS J9271) dose is paid at approximately $[J9271 ASP+6% PER 200 MG — NEEDS SOURCE] under the ASP+6% methodology at both POS 11 and POS 22, while a 340B covered entity acquires the same 200 mg dose at approximately $[340B ACQUISITION PER 200 MG — NEEDS SOURCE], yielding a per-infusion drug spread of approximately $[DRUG SPREAD — NEEDS SOURCE] retained by the 340B hospital outpatient site. [Source: CMS CY2026 Part B ASP drug pricing file, HCPCS J9271; 42 USC 256b 340B ceiling price; Dutch Rojas operator record for 340B acquisition cost. Rates pending]
+9. The only variable that moved between a POS 11 claim and a POS 22 claim for the same patient, same drug, same dose, and same physician is a two-digit field on the CMS-1500 or UB-04 claim form; the payment outcome was fixed upstream at the CMS-855A enrollment and 42 CFR 413.65 compliance stages, before any specific patient was scheduled for infusion. [Source: synthesis of claims 3 through 8 above; CMS-1500 and UB-04 claim form field specifications]
 
 ### Ch 6. The Arbitrage. SHORT.
 
