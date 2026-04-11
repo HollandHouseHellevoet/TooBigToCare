@@ -2,7 +2,7 @@
 
 Chapter-by-chapter factual claims required to prove each one-sentence thesis statement in `refined-outline.md`. Each claim is one sentence, flat, and falsifiable. Built iteratively with Dutch, one chapter per sourcing round.
 
-**Status.** Build in progress. Ch 1, Ch 2, and Ch 4 complete. Ch 3 drafted with Medicare rates locked, commercial placeholders inline, commit held pending commercial figures. Ch 5 swap complete with derived ranges: CPT 96365 POS 22 OPPS $216.49 (sourced), CPT 96365 POS 11 MPFS $66.13 (derived from CY2021 RVU of 1.98 multiplied by the CY2026 non-QP conversion factor $33.4009), J9271 April 2026 ASP+6% $61.251 per 1 mg and $12,250.20 per 200 mg (sourced), 340B acquisition $7,674 to $8,957 per 200 mg and drug spread $3,294 to $4,576 per dose (derived from OIG 33.6 percent and CMS 22.5 percent published averages), pembrolizumab as the number one Medicare Part B drug by 2023 spending at $4.8 billion added. Operator-confirmed CY2026 MPFS 96365 rate and pembrolizumab-specific 340B acquisition figure pending for the final swap.
+**Status.** Build in progress. Ch 1, Ch 2, Ch 4, and Ch 6 complete. Ch 3 drafted with Medicare rates locked, commercial placeholders inline, commit held pending commercial figures. Ch 5 swap complete with derived ranges: CPT 96365 POS 22 OPPS $216.49 (sourced), CPT 96365 POS 11 MPFS $66.13 (derived from CY2021 RVU of 1.98 multiplied by the CY2026 non-QP conversion factor $33.4009), J9271 April 2026 ASP+6% $61.251 per 1 mg and $12,250.20 per 200 mg (sourced), 340B acquisition $7,674 to $8,957 per 200 mg and drug spread $3,294 to $4,576 per dose (derived from OIG 33.6 percent and CMS 22.5 percent published averages), pembrolizumab as the number one Medicare Part B drug by 2023 spending at $4.8 billion added. Ch 6 carries Ch 5's Keytruda case study forward: independent physician practice net margin approximately $759 per infusion, 340B hospital outpatient department net margin approximately $3,510 to $4,793 per infusion, ratio of 4.6 to 1 (CMS anchor) or 6.3 to 1 (OIG anchor). Operator-confirmed CY2026 MPFS 96365 rate and pembrolizumab-specific 340B acquisition figure pending for the final swap on both chapters.
 
 ## Data architecture
 
@@ -35,7 +35,7 @@ Chapter-by-chapter factual claims required to prove each one-sentence thesis sta
 | I | Ch 3. The Second Look | MEDIUM | draft (commercial pending) |
 | II | Ch 4. The Price Isn't the Price | LONG | **complete** |
 | II | Ch 5. The Boxes | MEDIUM | swap (derived ranges, operator pending) |
-| II | Ch 6. The Arbitrage | SHORT | pending |
+| II | Ch 6. The Arbitrage | SHORT | **complete** |
 | II | Ch 7. The Trade Becomes Strategy | MEDIUM | pending |
 | III | Ch 8. The First Layer Isn't the Whole Story | SHORT | pending |
 | III | Ch 9. The $275 Billion Number | LONG | pending |
@@ -138,7 +138,12 @@ Chapter-by-chapter factual claims required to prove each one-sentence thesis sta
 
 **Proves:** the only change required to triple revenue on the same service is the ownership of the billing entity.
 
-*Pending sourcing round.*
+**Anchor service.** Intravenous pembrolizumab (Keytruda, HCPCS J9271) infusion, CPT 96365, 200 mg fixed dose, carried forward from Ch 5. Comparison: independent physician oncology practice at POS 11 versus 340B covered entity at POS 22.
+
+1. In CY2026, an independent physician oncology practice administering a 200 mg pembrolizumab infusion (HCPCS J9271, CPT 96365) to a Medicare beneficiary at Place of Service code 11 collects approximately $66.13 in MPFS service fees plus $12,250.20 in ASP+6% drug payment, yielding a per-infusion net margin of approximately $759 assuming drug acquisition at the Average Sales Price of approximately $11,557 per 200 mg dose under standard non-340B Part B buy-and-bill. [Source: Ch 5 claims 7 and 9; CY2026 ASP+6% Medicare Part B drug payment methodology; non-340B drug acquisition at approximately ASP under standard Part B buy-and-bill]
+2. A 340B covered entity administering the identical 200 mg pembrolizumab infusion to the same Medicare beneficiary at Place of Service code 22 collects $216.49 in OPPS service fees (APC 5693, Level 3 Drug Administration) plus the same $12,250.20 ASP+6% drug payment, while acquiring the 200 mg dose at an estimated $7,674 to $8,957 under the 340B ceiling price, yielding a per-infusion net margin of approximately $3,510 to $4,793. [Source: Ch 5 claims 7 and 9; 340B acquisition range derived from Ch 5 claim 9 using OIG 33.6 percent and CMS 22.5 percent published averages below ASP]
+3. The per-infusion net margin ratio between the 340B hospital outpatient site and the independent physician office is approximately 4.6 to 1 at the CMS-estimated 22.5 percent 340B discount and approximately 6.3 to 1 at the OIG-estimated 33.6 percent 340B discount, achieved with no change in clinical staffing, clinical protocol, patient panel, measured clinical outcome, or the physician administering the infusion. [Source: derivation from Ch 6 claims 1 and 2; Ch 5 claim 2 clinical-identity assertion]
+4. The only variable required to convert the independent physician practice's approximately $759 per-infusion net margin into the 340B hospital outpatient department's approximately $3,510 to $4,793 per-infusion net margin is the ownership and CMS enrollment classification of the billing entity, achieved via the chain documented in Ch 5 claims 3 through 6 (acquisition of the practice, CMS-855A enrollment under the hospital's institutional identity, 42 CFR 413.65(d) compliance, Place of Service code 22 eligibility). [Source: synthesis of Ch 5 classification chain and Ch 6 claims 1 through 3]
 
 ### Ch 7. The Trade Becomes Strategy. MEDIUM.
 
