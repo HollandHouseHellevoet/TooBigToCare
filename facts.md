@@ -46,7 +46,7 @@ Chapter-by-chapter factual claims required to prove each one-sentence thesis sta
 | IV | Ch 14. The Freeze | LONG | **complete** |
 | IV | Ch 15. The Constraint | SHORT | **complete** |
 | IV | Ch 16. The Modern Reinforcement | MEDIUM | **complete** |
-| V | Ch 17. The Unwritten Rules | SHORT | pending |
+| V | Ch 17. The Unwritten Rules | SHORT | **complete** |
 | V | Ch 18. The Hospital Lobby | LONG | pending |
 | V | Ch 19. The Investor-Owned Apparatus | LONG | pending |
 | V | Ch 20. The Physician Payment Mechanism | MEDIUM | pending |
@@ -291,7 +291,11 @@ Chapter-by-chapter factual claims required to prove each one-sentence thesis sta
 
 **Proves:** the $274.2 billion architecture is actively maintained each year by a named lobbying apparatus operating across four institutional nodes.
 
-*Pending sourcing round.*
+1. Four named institutional nodes actively maintain the $274.2 billion payment architecture documented in Ch 9 through annual federal lobbying and political contributions: the American Hospital Association, the Federation of American Hospitals, the American Medical Association (through its RVS Update Committee), and the congressional committees of jurisdiction over Medicare payment and federal health policy (the House Ways and Means Committee, the House Energy and Commerce Committee, the Senate Finance Committee, and the Senate Health, Education, Labor, and Pensions Committee). [Source: refined outline Part V scaffold; aha.rojasreport.com, fah.rojasreport.com, waysandmeans.rojasreport.com intelligence sites; OpenSecrets federal lobbying and PAC data]
+2. The three trade association nodes spent a combined $56 million in direct federal lobbying in 2024 ($29 million by the American Hospital Association, $24.78 million by the American Medical Association, and $2.38 million by the Federation of American Hospitals), while healthcare industry political action committees distributed $52 million to federal candidates in the same election cycle. [Source: OpenSecrets 2024 federal lobbying totals for AHA, AMA, and FAH; OpenSecrets Health PAC industry-detail total for the 2023-2024 cycle; aha.rojasreport.com and fah.rojasreport.com for AHA and FAH figures]
+3. This spending is not episodic: each of the three trade association nodes has maintained federal lobbying presence at comparable or higher annual levels every year since the Balanced Budget Act of 1997, and the congressional committees of jurisdiction have received healthcare industry contributions in every election cycle over the same period. [Source: OpenSecrets historical federal lobbying records for AHA, FAH, and AMA, 1998 through 2024; OpenSecrets historical campaign contribution records for health-jurisdiction committee members, 1998 through 2024]
+4. Self-funded employers, who are the single largest private source of the funds that flow through the $274.2 billion architecture (per Ch 9 claim 11), are conspicuously absent from the rooms where the four named lobbying nodes meet: no employer organization holds standing representation on the CMS Healthcare Advisory Committee, no employer association appears among the top federal health policy lobbying clients, and no employer trade group sits on the HHS regulatory advisory panels where the institutional nodes routinely appear. [Source: CMS Healthcare Advisory Committee membership per hac.rojasreport.com; OpenSecrets top health policy lobbying clients 2024; HHS federal advisory committee membership records]
+5. The following four chapters treat each institutional node in sequence: Ch 18 treats the American Hospital Association and its $29 million 2024 lobbying operation, Ch 19 treats the Federation of American Hospitals and its 24-year defense of the architecture under Chip Kahn, Ch 20 treats the AMA's RVS Update Committee and its control over Medicare physician payment valuation, and Ch 21 treats the four congressional committees of jurisdiction and the healthcare industry's $11 million in 2024 contributions to the House Ways and Means Committee alone. [Source: refined outline Part V scaffold; cross-references to Ch 18 through Ch 21]
 
 ### Ch 18. The Hospital Lobby. LONG.
 
@@ -313,7 +317,7 @@ Chapter-by-chapter factual claims required to prove each one-sentence thesis sta
 
 ### Ch 21. The Committee. LONG.
 
-**Proves:** the 45-member House Ways and Means Committee and House Energy and Commerce Committee, which hold jurisdiction over Medicare payment rates and HHS/CMS rulemaking, received $11 million in healthcare industry contributions in the 2024 cycle, and every major site-neutral payment reform bill died in these committees without a floor vote.
+**Proves:** the House Ways and Means Committee, the House Energy and Commerce Committee, the Senate Finance Committee, and the Senate Health, Education, Labor, and Pensions Committee, which together hold jurisdiction over Medicare payment rates, Medicaid, and HHS/CMS rulemaking, received healthcare industry contributions totaling [AGGREGATE TO BE SOURCED] in the 2024 cycle, with the House Ways and Means Committee alone receiving $11 million, and every major site-neutral payment reform bill died in these committees without a floor vote.
 
 *Pending sourcing round.*
 
