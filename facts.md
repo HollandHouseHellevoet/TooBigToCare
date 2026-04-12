@@ -55,7 +55,7 @@ Chapter-by-chapter factual claims required to prove each one-sentence thesis sta
 | VI | Ch 23. The Independent Physician | MEDIUM | **complete** (3 source confirmations pending) |
 | VI | Ch 24. The Disappearance | MEDIUM | **complete** (1 source confirmation pending) |
 | VII | Ch 25. The Employer | SHORT | **complete** |
-| VII | Ch 26. The Patient | SHORT | pending |
+| VII | Ch 26. The Patient | SHORT | **complete** |
 | VII | Ch 27. The Debt | MEDIUM | pending |
 | VII | Ch 28. The Design | SHORT | pending |
 
@@ -416,7 +416,11 @@ Chapter-by-chapter factual claims required to prove each one-sentence thesis sta
 
 **Proves:** the patient has been paying the same invisibility through premiums, deductibles, and cost-sharing, and the price differential is a system they were never told existed.
 
-*Pending sourcing round.*
+1. The patient funds the $25,572 average annual employer-sponsored family health insurance premium (per Ch 9 claim 12) through a combination of direct payroll contribution, wages forgone to the employer share of the premium, deductibles, coinsurance, and out-of-pocket payments at the point of service, bearing the full cost of the premium in some combination of these mechanisms regardless of how the premium is split on the employer's ledger. [Source: KFF Employer Health Benefits Survey 2024 referenced in Ch 9 claim 12; BLS Employer Costs for Employee Compensation]
+2. The CMS Hospital Price Transparency rule (45 CFR 180), which has required hospitals to publish standard charges since January 1, 2021, has been met with compliance rates below 50 percent in semiannual audits conducted by Patient Rights Advocate, meaning that more than half of hospitals do not make their negotiated rates available to patients in the format the rule requires. [Source: CMS Hospital Price Transparency rule at 45 CFR 180; Patient Rights Advocate semiannual compliance reports, 2021 through 2025]
+3. The price paid by a patient for a given elective procedure can vary by a factor of five or more across facilities within the same metropolitan area, and patients are not informed at the time of scheduling that the same procedure at a different facility, sometimes at comparable distance, costs a fraction of the amount their insurer will pay. [Source: Turquoise Health price transparency data; RAND Hospital Price Transparency Study; consumer research on pre-procedure price disclosure]
+4. The price differential the patient experiences at the point of service (through higher deductibles, higher coinsurance, and higher out-of-pocket maximums at hospital outpatient sites versus freestanding physician offices) is the patient-facing expression of the same site-of-service classification gap documented in Part I (Ch 1 through Ch 6), meaning the patient is paying a portion of the architectural differential without knowing it exists or understanding its source. [Source: synthesis of Part I site-of-service claims; KFF EHBS 2024 cost-sharing data]
+5. The patient was never told the differential existed: the information is not presented at scheduling, the price transparency rules are not enforced at compliance rates sufficient to make the information accessible, and the referral pathway that routes the patient to the higher-cost site (per Ch 15 Stark Law employment exception and Ch 7 acquisition-as-strategy) operates without any disclosure obligation to the patient about the payment classification that determined the price. [Source: synthesis of Ch 1 pre-plant (anomaly named from the patient's invoice), Ch 15 Stark employment exception, Ch 7 acquisition strategy, CMS Hospital Price Transparency compliance data, and the patient human position document in the master brief]
 
 ### Ch 27. The Debt. MEDIUM.
 
