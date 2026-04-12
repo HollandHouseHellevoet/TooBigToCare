@@ -53,7 +53,7 @@ Chapter-by-chapter factual claims required to prove each one-sentence thesis sta
 | V | Ch 21. The Committee | LONG | **complete** (3 contribution figures pending) |
 | VI | Ch 22. The Flywheel | MEDIUM | **complete** |
 | VI | Ch 23. The Independent Physician | MEDIUM | **complete** (3 source confirmations pending) |
-| VI | Ch 24. The Disappearance | MEDIUM | pending |
+| VI | Ch 24. The Disappearance | MEDIUM | **complete** (1 source confirmation pending) |
 | VII | Ch 25. The Employer | SHORT | pending |
 | VII | Ch 26. The Patient | SHORT | pending |
 | VII | Ch 27. The Debt | MEDIUM | pending |
@@ -391,7 +391,14 @@ Chapter-by-chapter factual claims required to prove each one-sentence thesis sta
 
 **Proves:** employment is rising, independent practices are closing, and rural hospitals are disappearing at measurable, datable rates.
 
-*Pending sourcing round.*
+1. The share of physicians in independent practice declined from approximately 60 percent in 2012 to approximately 22 percent by January 2024, as the proportion of physicians employed by hospital systems, corporate entities, and private equity-affiliated organizations grew to 77.6 percent (per Ch 7 claim 1), a trajectory that represents the loss of more than half of the independent physician workforce in 12 years. [Source: PAI/Avalere 2024 physician employment series referenced in Ch 7 claim 1; complement derivation from 100 percent minus 77.6 percent employed]
+2. More than 180 rural hospitals have closed or converted to non-inpatient operating models since 2010, comprising both complete closures (facilities that no longer offer any health services) and converted closures (facilities that closed their inpatient units but continued providing outpatient, urgent, or emergency services at the same location). [Source: Cecil G. Sheps Center for Health Services Research at UNC, rural hospital closures database; Chartis Center for Rural Health 2025 rural hospital vulnerability analysis tracking 182 closures and conversions since 2010]
+3. An additional 417 to 432 rural hospitals are classified as vulnerable to closure in the Chartis Center for Rural Health's 2025 and 2026 vulnerability analyses, meaning approximately one in four of the nation's 1,844 open rural hospitals is at measurable risk of closing. [Source: Chartis Center for Rural Health, 2025 and 2026 State of the State rural hospital vulnerability reports]
+4. 46 percent of rural hospitals reported negative operating margins in the most recent Chartis analysis, indicating that nearly half of all rural hospitals are operating at a financial loss before considering non-operating income, investment returns, or supplemental payment streams. [Source: Chartis Center for Rural Health, 2025 rural hospital financial analysis]
+5. The physician-owned hospital count declined from 265 at the date of the Section 6001 construction freeze in March 2010 to 104 surviving as independent physician-owned facilities, with 85 eliminated and 76 absorbed into joint ventures with hospital systems (per Ch 14 claims 3 through 7), a disappearance of 161 independent physician-owned competitors from the hospital market in 14 years. [Source: poh.rojasreport.com referenced in Ch 14 claims 3 through 7]
+6. Small primary care practices of one to three physicians have declined as a share of total primary care delivery capacity in every year of the AMA Practice Benchmark Survey and the MGMA annual data, reflecting the structural compression documented in Ch 23 claim 4 (MPFS conversion factor 7.6 percent lower in real terms) and the acquisition cycle documented in Ch 22 (the flywheel). [Source: AMA Practice Benchmark Survey, practice size breakdowns; MGMA annual data. [NEEDS SOURCE: specific survey years and percentage decline]]
+7. The rate of rural hospital closures has accelerated into the 2020 through 2025 period, with 18 rural hospitals closing or converting in the most recent annual tracking period per the Chartis Center for Rural Health, described in industry analyses as a record annual pace. [Source: Chartis Center for Rural Health, 2025 analysis; McKesson Prescribed Perspectives analysis of record rural hospital closure pace]
+8. The disappearance documented across physician employment (claim 1), rural hospital closures (claims 2 and 3), physician-owned hospital elimination (claim 5), and small practice contraction (claim 6) is measurable, datable, directional across every measured category, and has not reversed in any period covered by the PAI/Avalere, Cecil G. Sheps Center, Chartis, or AMA tracking series. [Source: synthesis of Ch 24 claims 1 through 7; cross-reference to Ch 7, Ch 14, and Ch 22 for the structural mechanisms producing the disappearance]
 
 ## Part VII. The Reckoning
 
