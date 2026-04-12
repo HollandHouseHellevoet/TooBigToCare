@@ -56,7 +56,7 @@ Chapter-by-chapter factual claims required to prove each one-sentence thesis sta
 | VI | Ch 24. The Disappearance | MEDIUM | **complete** (1 source confirmation pending) |
 | VII | Ch 25. The Employer | SHORT | **complete** |
 | VII | Ch 26. The Patient | SHORT | **complete** |
-| VII | Ch 27. The Debt | MEDIUM | pending |
+| VII | Ch 27. The Debt | MEDIUM | **complete** (1 source confirmation pending) |
 | VII | Ch 28. The Design | SHORT | pending |
 
 ---
@@ -426,7 +426,13 @@ Chapter-by-chapter factual claims required to prove each one-sentence thesis sta
 
 **Proves:** the system allocates exactly as designed, including toward its own fragility. Five academic medical centers. $5B or more in new debt. Sub-two-percent margins.
 
-*Pending sourcing round.*
+1. UPMC, Northwell Health, Duke University Health System, Yale New Haven Health, and Emory Healthcare have issued a combined total exceeding $5 billion in new debt since 2024 (UPMC $1.6 billion in 2025, Northwell $762.8 million in 2024, Duke $743 million in 2025, Yale New Haven $669 million in 2024, and Emory $1 billion or more planned in 2025), while each institution operated at or below 2 percent operating margin at the time of issuance. [Source: academic.rojasreport.com; EMMA/MSRB institutional continuing disclosure filings]
+2. Operating margins at those five academic medical centers are below 2 percent in their most recent audited financial statements, meaning the institutions at the top of the payment architecture are generating clinical revenue surpluses too thin to absorb any sustained compression of the eight federal funding streams on which their debt service depends. [Source: academic.rojasreport.com, operating margin table]
+3. The combined annual revenue of the five academic medical centers exceeds $50 billion, making each institution individually larger than most Fortune 500 companies by revenue while carrying operating margins that would be considered distressed in any other capital-intensive industry. [Source: academic.rojasreport.com, revenue totals]
+4. Yale New Haven Health was downgraded from Aa3 to A1 by Moody's in May 2023, Emory Healthcare carries a confirmed negative outlook, and Duke University Health System issued $743 million in bonds while operating at negative 1.5 percent margin, with these named actions representing the most severe deterioration in a sector where 32 percent of the 25-institution cohort is rated below the Aa3/AA- threshold carrying an estimated $18.8 billion in combined long-term debt. [Source: academic.rojasreport.com bond ratings table; Moody's and S&P rating actions per EMMA/MSRB]
+5. Interest expense as a share of operating expense has grown at major academic medical centers since 2019, driven by the combination of new debt issuance, rising interest rates on variable-rate and refunding bonds, and operating margin compression that reduces the cushion between clinical revenue and debt service obligations. [Source: academic.rojasreport.com, interest expense analysis; IRS Form 990 filings for the five named institutions. [NEEDS SOURCE: specific interest expense figures]]
+6. Academic medical centers carry cross-subsidy obligations (research, indigent care, graduate medical education, community benefit) that operate at a loss and are covered by clinical revenue surpluses, meaning the same margin compression that threatens debt service also threatens the non-clinical missions that justify the institutions' nonprofit tax exemption and their access to the $37.4 billion tax-exempt stream documented in Ch 9 claim 4. [Source: AAMC financial reporting and cross-subsidy analysis; Ch 9 claim 4 on nonprofit tax exemption; 26 USC 501(r) community benefit reporting]
+7. The system allocates exactly as designed, including toward its own fragility: the same positioning logic that extracts the $274.2 billion annual surplus (Ch 9) and concentrates it in 212 hospitals (Ch 11) also concentrates the leverage, the debt service, and the refinancing risk at the institutions most dependent on the architecture's continuation, such that any sustained disruption to the eight streams would produce cascading financial distress at the institutions the architecture was built to advantage. [Source: synthesis of Ch 9 (eight streams), Ch 11 (concentration), Ch 22 (flywheel), and academic.rojasreport.com (five-institution debt and margin data)]
 
 ### Ch 28. The Design. SHORT.
 
