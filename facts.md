@@ -52,8 +52,8 @@ Chapter-by-chapter factual claims required to prove each one-sentence thesis sta
 | V | Ch 20. The Physician Payment Mechanism | MEDIUM | **complete** |
 | V | Ch 21. The Committee | LONG | **complete** (3 contribution figures pending) |
 | VI | Ch 22. The Flywheel | MEDIUM | **complete** |
-| VI | Ch 23. The Independent Physician | MEDIUM | **complete** (3 source confirmations pending) |
-| VI | Ch 24. The Disappearance | MEDIUM | **complete** (1 source confirmation pending) |
+| VI | Ch 23. The Independent Physician | MEDIUM | **complete** |
+| VI | Ch 24. The Disappearance | MEDIUM | **complete** |
 | VII | Ch 25. The Employer | SHORT | **complete** |
 | VII | Ch 26. The Patient | SHORT | **complete** |
 | VII | Ch 27. The Debt | MEDIUM | **complete** |
