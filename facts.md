@@ -57,7 +57,7 @@ Chapter-by-chapter factual claims required to prove each one-sentence thesis sta
 | VII | Ch 25. The Employer | SHORT | **complete** |
 | VII | Ch 26. The Patient | SHORT | **complete** |
 | VII | Ch 27. The Debt | MEDIUM | **complete** (1 source confirmation pending) |
-| VII | Ch 28. The Design | SHORT | pending |
+| VII | Ch 28. The Design | SHORT | **complete** |
 
 ---
 
@@ -438,4 +438,7 @@ Chapter-by-chapter factual claims required to prove each one-sentence thesis sta
 
 **Proves:** the architecture does not reward better care. It rewards better positioning inside the architecture.
 
-*Pending sourcing round.*
+1. The $274.2 billion annual architecture documented in Ch 9 flows exclusively to institutions classified as hospitals and not to independent physician practices, and no CMS quality program conditions any portion of that $274.2 billion on clinical outcome performance relative to independent physicians delivering the same services at lower cost (per Ch 23). [Source: Ch 9 eight-stream enumeration; Ch 23 claims on independent physician quality and cost performance; CMS quality program design across the eight streams]
+2. Every statute establishing a payment-architecture advantage cited in this document (the Balanced Budget Act of 1997 in Ch 12, Certificate of Need laws in Ch 13, Section 6001 of the ACA in Ch 14, the Stark Law in Ch 15, and the No Surprises Act in Ch 16) operates on institutional classification rather than on clinical care delivered, meaning the legal architecture rewards the positioning of the billing entity within the classification system and not the quality, cost, or outcome of the service the entity provides. [Source: statutory citations in Ch 12 through Ch 16; Ch 4 claim 14 on classification-based payment system selection]
+3. The lobbying apparatus documented in Part V (the AHA's $29 million annual lobbying in Ch 18, the FAH's 24-year revolving-door apparatus in Ch 19, the AMA RUC's embedded valuation control in Ch 20, and the $52 million in healthcare PAC contributions to congressional committees in Ch 21) operates to preserve classification-based payment, not outcome-based payment, and has successfully blocked every comprehensive site-neutral reform proposal scored by the CBO at $150 billion to $180 billion in Medicare savings over a decade (per Ch 18 claims 8 through 10 and Ch 21 claims 7 through 12). [Source: Part V synthesis; Ch 18 claims 8 through 10; Ch 21 claims 7 through 12]
+4. The architecture does not reward better care; it rewards better positioning inside the architecture, and everything documented in the preceding 27 chapters reorganized itself around that single structural fact. [Source: synthesis of Parts I through VII; the thesis as stated in the master brief]
