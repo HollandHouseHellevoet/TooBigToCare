@@ -54,7 +54,7 @@ Chapter-by-chapter factual claims required to prove each one-sentence thesis sta
 | VI | Ch 22. The Flywheel | MEDIUM | **complete** |
 | VI | Ch 23. The Independent Physician | MEDIUM | **complete** (3 source confirmations pending) |
 | VI | Ch 24. The Disappearance | MEDIUM | **complete** (1 source confirmation pending) |
-| VII | Ch 25. The Employer | SHORT | pending |
+| VII | Ch 25. The Employer | SHORT | **complete** |
 | VII | Ch 26. The Patient | SHORT | pending |
 | VII | Ch 27. The Debt | MEDIUM | pending |
 | VII | Ch 28. The Design | SHORT | pending |
@@ -406,7 +406,11 @@ Chapter-by-chapter factual claims required to prove each one-sentence thesis sta
 
 **Proves:** the self-funded employer writes the largest check in the system every month while believing they are purchasing care rather than funding a capital accumulation engine.
 
-*Pending sourcing round.*
+1. Self-funded employers cover approximately 65 percent of employees in employer-sponsored health insurance in the United States and represent the single largest private funding source for the healthcare system, yet have no structural visibility into the $274.2 billion architecture documented in Ch 9 that their benefit contributions help fund. [Source: KFF Employer Health Benefits Survey, self-funded share; Ch 9 claim 11 on employer invisibility]
+2. The average employer-sponsored family health insurance premium reached $25,572 per year in 2024 (per Ch 9 claim 12), employer premium growth has exceeded general wage growth in every year since 2010, and the employer's benefit check flows through health insurance carriers and pharmacy benefit managers to the hospital systems that receive the eight federal funding streams without the employer seeing the destination of the flow. [Source: KFF Employer Health Benefits Survey 2024 referenced in Ch 9 claim 12; KFF EHBS premium vs BLS wage growth comparison]
+3. Self-funded employers receive claims data from carriers with contractual limits on the scope of audit and disclosure, and broker compensation in most employer health insurance arrangements is paid by the carrier rather than by the employer, a structure that the Consolidated Appropriations Act of 2021 (Sections 201 and 202) required to be disclosed but did not prohibit or restructure. [Source: Consolidated Appropriations Act of 2021 Section 201 enforcement reporting; CAA 2021 Section 202 broker compensation disclosure requirements]
+4. The employer is conspicuously absent from the rooms where the four institutional nodes of Part V meet (per Ch 17 claim 4): no employer organization holds standing representation on the CMS Healthcare Advisory Committee, no employer association appears among the top federal health policy lobbying clients, and no employer trade group sits on the HHS regulatory advisory panels where the hospital trade associations routinely appear. [Source: Ch 17 claim 4; CMS Healthcare Advisory Committee membership per hac.rojasreport.com; OpenSecrets top health policy lobbying clients]
+5. The structural outcome is that the self-funded employer writes the largest private check in the system every month while believing they are purchasing healthcare, when they are funding a capital accumulation architecture that has no obligation to explain itself, no mechanism to make the $274.2 billion visible to the payer, and no representation for the payer in the rooms where the architecture is defended. [Source: synthesis of Ch 9 claims 11 and 12, Ch 17 claim 4, and the employer human position document in the master brief]
 
 ### Ch 26. The Patient. SHORT.
 
