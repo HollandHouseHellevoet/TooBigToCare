@@ -52,7 +52,7 @@ Chapter-by-chapter factual claims required to prove each one-sentence thesis sta
 | V | Ch 20. The Physician Payment Mechanism | MEDIUM | **complete** |
 | V | Ch 21. The Committee | LONG | **complete** (3 contribution figures pending) |
 | VI | Ch 22. The Flywheel | MEDIUM | **complete** |
-| VI | Ch 23. The Independent Physician | MEDIUM | pending |
+| VI | Ch 23. The Independent Physician | MEDIUM | **complete** (3 source confirmations pending) |
 | VI | Ch 24. The Disappearance | MEDIUM | pending |
 | VII | Ch 25. The Employer | SHORT | pending |
 | VII | Ch 26. The Patient | SHORT | pending |
@@ -378,7 +378,14 @@ Chapter-by-chapter factual claims required to prove each one-sentence thesis sta
 
 **Proves:** the independent physician is not losing on clinical merit. The independent physician is competing in the wrong payment system.
 
-*Pending sourcing round.*
+1. Independent physicians in the five high-acquisition specialties (cardiology, gastroenterology, medical oncology, orthopedics, and urology) now represent only 12 percent of the physician workforce in those fields (per Ch 7 claim 2), competing against hospital-employed physicians who have access to the $274.2 billion architecture from which independent practice is structurally excluded (per Ch 10 claim 8). [Source: Avalere September 2024 analysis referenced in Ch 7 claim 2; Ch 10 claim 8 on exclusion from all eight streams]
+2. CMS Quality Payment Program MIPS performance scores for independent physician practices match or exceed those of hospital-employed physicians in the same specialties on the composite quality, cost, improvement activities, and promoting interoperability measures that CMS uses to determine Merit-Based Incentive Payment System adjustments. [Source: CMS Quality Payment Program public performance data, independent vs employed comparison. [NEEDS SOURCE: specific QPP year and comparison methodology]]
+3. Patient satisfaction scores on the CAHPS Clinician and Group Survey for independent practices match or exceed those of hospital-affiliated practices on access, communication, and overall rating domains. [Source: CAHPS Clinician and Group Survey public data comparison. [NEEDS SOURCE: specific CAHPS year and comparison]]
+4. The Medicare Physician Fee Schedule conversion factor, which is the payment rate independent physicians receive for their clinical services, was 7.6 percent lower in real terms in 2023 than in 1998 (per Ch 12 claim 7), while the OPPS conversion factor that pays hospital outpatient departments grew over the same period by statutory market-basket updates, meaning independent physicians' payment has compressed in real terms while the system they compete against has grown. [Source: Ch 12 claim 7; HAP Radiology historical MPFS conversion factor analysis; CMS OPPS annual final rules]
+5. Independent practice overhead per clinical encounter is lower than hospital-affiliated practice overhead per encounter in MGMA benchmarking data, because independent practices do not carry the administrative infrastructure, compliance departments, and facility overhead that hospital systems build into their cost structures and recover through the higher OPPS and supplemental payment rates documented in Parts I and III. [Source: MGMA DataDive benchmark reports, independent vs hospital-affiliated practice overhead comparison. [NEEDS SOURCE: specific MGMA year and comparison]]
+6. The Medicare Physician Fee Schedule does not grant access to any of the eight federal funding streams totaling $274.2 billion annually documented in Ch 9, meaning independent physicians compete on clinical merit alone against an architecture that layers $274.2 billion in non-clinical revenue advantages on top of the same clinical services they deliver. [Source: Ch 9 eight-stream enumeration; Ch 10 claim 8 on structural exclusion; program eligibility rules cited in Ch 9 claims 2 through 9]
+7. MedMerge operates as coordination infrastructure designed to permit independent practices to aggregate administrative capacity, negotiate collectively, and share operational resources without consolidating ownership, representing a structural counter-model to the hospital acquisition pathway documented in Ch 7. [Source: medmerge.co, platform description and mission]
+8. The structural outcome documented across Ch 7 (employment shift), Ch 12 (MPFS real-terms decline), and Ch 22 (flywheel acceleration) is not that independent physicians lose on quality, cost, or patient satisfaction; it is that independent physicians operate inside a payment system that was not designed for them, delivering care that the architecture does not reward and competing against a revenue structure they cannot access. [Source: synthesis of Ch 7, Ch 12, Ch 22, and the physician human position document in the master brief]
 
 ### Ch 24. The Disappearance. MEDIUM.
 
