@@ -46,14 +46,18 @@ Chapter-by-chapter factual claims required to prove each one-sentence thesis sta
 | IV | Ch 14. The Freeze | LONG | **complete** |
 | IV | Ch 15. The Constraint | SHORT | **complete** |
 | IV | Ch 16. The Modern Reinforcement | MEDIUM | **complete** |
-| IV | Ch 17. The Unwritten Rules | LONG | pending |
-| V | Ch 18. The Flywheel | MEDIUM | pending |
-| V | Ch 19. The Independent Physician | MEDIUM | pending |
-| V | Ch 20. The Disappearance | MEDIUM | pending |
-| VI | Ch 21. The Employer | SHORT | pending |
-| VI | Ch 22. The Patient | SHORT | pending |
-| VI | Ch 23. The Debt | MEDIUM | pending |
-| VI | Ch 24. The Design | SHORT | pending |
+| V | Ch 17. The Unwritten Rules | SHORT | pending |
+| V | Ch 18. The Hospital Lobby | LONG | pending |
+| V | Ch 19. The Investor-Owned Apparatus | LONG | pending |
+| V | Ch 20. The Physician Payment Mechanism | MEDIUM | pending |
+| V | Ch 21. The Committee | LONG | pending |
+| VI | Ch 22. The Flywheel | MEDIUM | pending |
+| VI | Ch 23. The Independent Physician | MEDIUM | pending |
+| VI | Ch 24. The Disappearance | MEDIUM | pending |
+| VII | Ch 25. The Employer | SHORT | pending |
+| VII | Ch 26. The Patient | SHORT | pending |
+| VII | Ch 27. The Debt | MEDIUM | pending |
+| VII | Ch 28. The Design | SHORT | pending |
 
 ---
 
@@ -281,53 +285,79 @@ Chapter-by-chapter factual claims required to prove each one-sentence thesis sta
 8. Physicians win 80 to 88 percent of IDR disputes at payouts 2.5 to 4.5 times the QPA, yet the Emergency Department Practice Management Association documented 87 percent payer noncompliance with IDR awards, CMS recovered $4,183,383 across 16,073 complaints averaging $260 per complaint at a 2.5 percent violation finding rate against documented 87 percent noncompliance, and the Fifth Circuit ruled June 12, 2025 that no private right of action exists to enforce IDR awards, with en banc denied July 11, 2025 and the Supreme Court denying review January 12, 2026. [Source: EDPMA No Surprises Act Member Survey, June 2024; CMS Complaint Data and Enforcement Report, August 20, 2024; Guardian Flight v. Health Care Service Corp., No. 24-10561, Fifth Circuit June 12, 2025; cert. denied No. 25-441, January 12, 2026]
 9. Post-enactment analyses found mean QPAs running more than 30 percent below adjusted estimates of pre-NSA in-network prices, and analysis of 7.56 million commercial claims found mean out-of-network payments running 112 percent above the estimated QPA, confirming the QPA was set structurally below actual market rates rather than at the median of competitive pricing. [Source: Brookings Institution, 2024; Duffy et al., JAMA Health Forum, September 2022]
 
-### Ch 17. The Unwritten Rules. LONG.
+## Part V. The Apparatus
 
-**Proves:** the architecture is actively maintained each year by a named lobbying apparatus. AHA, FAH, HAC, and the House Ways and Means Committee. Combined AHA lobbying spend above $29M annually. 83 percent of FAH lobbyists are former government staff. The incoming AHA chairman is seated on the CMS Healthcare Advisory Committee. $11M in 2024 healthcare industry contributions routed to the 45-member Ways and Means Committee in the 119th Congress.
+### Ch 17. The Unwritten Rules. SHORT.
+
+**Proves:** the $274.2 billion architecture is actively maintained each year by a named lobbying apparatus operating across four institutional nodes.
 
 *Pending sourcing round.*
 
-## Part V. The Outcome
+### Ch 18. The Hospital Lobby. LONG.
 
-### Ch 18. The Flywheel. MEDIUM.
+**Proves:** the American Hospital Association spent a record $29 million in 2024 to block site-neutral payment reform that would have returned $140-180 billion to Medicare, using a 27-member board, a $3.77M PAC, and a revolving door staffed entirely by former federal officials.
+
+*Pending sourcing round.*
+
+### Ch 19. The Investor-Owned Apparatus. LONG.
+
+**Proves:** the Federation of American Hospitals maintained the architecture for 24 years through a named revolving door, six retained lobbying firms, a $143 million dark money coalition, and a board carrying $4.7 billion in combined fraud settlements.
+
+*Pending sourcing round.*
+
+### Ch 20. The Physician Payment Mechanism. MEDIUM.
+
+**Proves:** the AMA's RVS Update Committee controls Medicare physician payment valuation and has systematically suppressed the MPFS conversion factor while the OPPS conversion factor grew, widening the site-of-service gap documented in Part I.
+
+*Pending sourcing round.*
+
+### Ch 21. The Committee. LONG.
+
+**Proves:** the 45-member House Ways and Means Committee and House Energy and Commerce Committee, which hold jurisdiction over Medicare payment rates and HHS/CMS rulemaking, received $11 million in healthcare industry contributions in the 2024 cycle, and every major site-neutral payment reform bill died in these committees without a floor vote.
+
+*Pending sourcing round.*
+
+## Part VI. The Outcome
+
+### Ch 22. The Flywheel. MEDIUM.
 
 **Proves:** the loop accelerates year over year. Each cycle of higher reimbursement funds the acquisitions that expand the next cycle.
 
 *Pending sourcing round.*
 
-### Ch 19. The Independent Physician. MEDIUM.
+### Ch 23. The Independent Physician. MEDIUM.
 
 **Proves:** the independent physician is not losing on clinical merit. The independent physician is competing in the wrong payment system.
 
 *Pending sourcing round.*
 
-### Ch 20. The Disappearance. MEDIUM.
+### Ch 24. The Disappearance. MEDIUM.
 
 **Proves:** employment is rising, independent practices are closing, and rural hospitals are disappearing at measurable, datable rates.
 
 *Pending sourcing round.*
 
-## Part VI. The Reckoning
+## Part VII. The Reckoning
 
-### Ch 21. The Employer. SHORT.
+### Ch 25. The Employer. SHORT.
 
 **Proves:** the self-funded employer writes the largest check in the system every month while believing they are purchasing care rather than funding a capital accumulation engine.
 
 *Pending sourcing round.*
 
-### Ch 22. The Patient. SHORT.
+### Ch 26. The Patient. SHORT.
 
 **Proves:** the patient has been paying the same invisibility through premiums, deductibles, and cost-sharing, and the price differential is a system they were never told existed.
 
 *Pending sourcing round.*
 
-### Ch 23. The Debt. MEDIUM.
+### Ch 27. The Debt. MEDIUM.
 
 **Proves:** the system allocates exactly as designed, including toward its own fragility. Five academic medical centers. $5B or more in new debt. Sub-two-percent margins.
 
 *Pending sourcing round.*
 
-### Ch 24. The Design. SHORT.
+### Ch 28. The Design. SHORT.
 
 **Proves:** the architecture does not reward better care. It rewards better positioning inside the architecture.
 
